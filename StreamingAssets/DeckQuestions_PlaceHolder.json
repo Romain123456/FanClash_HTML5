@@ -1,0 +1,35 @@
+{
+	"entityId": "abc123",
+	"fixtureId": 123,
+	"serverData": {
+		"correctAnswersIndexArr": [0]
+	},
+	"quizArr": [{
+		"question": "What was the half-time score of the match Liverpool / Wolves ?",
+		"answers": [
+			"2 - 0",
+			"1 - 0",
+			"2 - 1",
+			"1 - 1"
+		]
+	}],
+	"rawQuizDeckRequest": {
+		"fixtureId": "1201625",
+		"fixtureFriendlyName": "TODO",
+		"distinct": 1,
+		"length": 10,
+		"nbAnswers": 4,
+		"lang": "en"
+	},
+	"clashResultsArr": [
+		{
+			"numAnsweredCorrectly": 9,
+			"playerSummaryData": {
+				"profileId": "4d96dfe7-2c2c-443c-8fda-f98bcc710273",
+				"profileName": "dylan-bc-dash",
+				"pictureUrl": "foo.png",
+				"isFriend": false
+			}
+		}
+	]
+}
